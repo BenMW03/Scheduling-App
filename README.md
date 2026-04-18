@@ -1,4 +1,4 @@
-# D969 – WGU C# Scheduling Application
+# C# Scheduling Application
 ### Developed by Benjamin Weiglein
 
 A business desktop application for scheduling and tracking client appointments, built with C# and .NET Framework with MySQL database integration.
